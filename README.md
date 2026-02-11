@@ -72,7 +72,7 @@ real-time-hand-gesture-to-speech/
 ---
 
 ## 🎥 Demo Video
-👉 [Click here to watch demo](PASTE_YOUR_VIDEO_LINK_HERE)
+👉 [Click here to watch demo]https://drive.google.com/file/d/1LIIpD1_FfVcVKHCYmCDNWYJF2R8y-8BM/view?usp=drivesdk
 
 ---
 
